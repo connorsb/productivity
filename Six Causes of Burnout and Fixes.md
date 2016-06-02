@@ -1,6 +1,6 @@
 # The Six Causes of Burnout (with Fixes!)
 
-Causes as reported by @Catehstn in a twitter post of a slide, fixes as suggested by @connorsb for his own use.
+Causes as reported by @Catehstn at a presentation at @selfconference, fixes as suggested by @connorsb for his own use.
 
 ## Lack of Control
 
