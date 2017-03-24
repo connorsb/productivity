@@ -1,5 +1,7 @@
 # Review Questions
+
 The following are questions worth asking during any kind of durational review.
+
 - [ ] What hard deadlines are approaching?
 - [ ] What small tasks have I missed?
 - [ ] What else is on my plate?
