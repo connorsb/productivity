@@ -44,6 +44,7 @@ It's compassionate minimalism - planning for the travel-tired future you.
 - [ ] Sketchbook
 - [ ] Artists Tools (no blades!)
 - [ ] Laptop
+- [ ] Headphones & headphone charger
 - [ ] Cell Phone Charger
 - [ ] Laptop Cord
 - [ ] Portable Backup Battery
