@@ -8,7 +8,7 @@ For example, though the trip only spans across three days, there are a total of 
 It's compassionate minimalism - planning for the travel-tired future you.
 
 ## Charge and Prep:
-- [ ] Laptop
+- [ ] Laptop/iPad
 - [ ] Cell Phone
 - [ ] Portable Backup Battery
 - [ ] Headphones
@@ -27,7 +27,7 @@ It's compassionate minimalism - planning for the travel-tired future you.
 - [ ] 1 pair socks
 - [ ] 1 pair underwear
 
-### Clothing You'll Pack
+### Fold Clothing
 
 - [ ] Dress Shirt for Fancy Dinner
 - [ ] Less Formal Dress Shirt
@@ -43,10 +43,10 @@ It's compassionate minimalism - planning for the travel-tired future you.
 - [ ] Diary
 - [ ] Sketchbook
 - [ ] Artists Tools (no blades!)
-- [ ] Laptop
+- [ ] Laptop/iPad
 - [ ] Headphones & headphone charger
 - [ ] Cell Phone Charger
-- [ ] Laptop Cord
+- [ ] Laptop/iPad Cord
 - [ ] Portable Backup Battery
 
 ## Duffel Bag
