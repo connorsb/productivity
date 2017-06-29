@@ -15,11 +15,8 @@ It's compassionate minimalism - planning for the travel-tired future you.
 - [ ] Podcasts (or audiobooks)
 - [ ] Kindle Books
 
-## Clothing
 
-### Clothing You'll Wear on the Flight
-
-(doesn't count as packing)
+## Flight Outfit
 
 - [ ] Jeans
 - [ ] Comfortable Tshirt
@@ -27,7 +24,7 @@ It's compassionate minimalism - planning for the travel-tired future you.
 - [ ] 1 pair socks
 - [ ] 1 pair underwear
 
-### Fold Clothing
+## Clothing to Pack
 
 - [ ] Dress Shirt for Fancy Dinner
 - [ ] Less Formal Dress Shirt
@@ -35,6 +32,7 @@ It's compassionate minimalism - planning for the travel-tired future you.
 - [ ] 4 pair socks
 - [ ] 4 pair underwear
 - [ ] 3 tshirts
+- [ ] Toothbrush
 
 ## Messenger Bag
 
@@ -48,11 +46,6 @@ It's compassionate minimalism - planning for the travel-tired future you.
 - [ ] Cell Phone Charger
 - [ ] Laptop/iPad Cord
 - [ ] Portable Backup Battery
-
-## Duffel Bag
-
-- [ ] Aforementioned Clothing
-- [ ] Toothbrush
 
 ## Purchase at Destination
 
