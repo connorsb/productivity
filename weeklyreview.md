@@ -6,13 +6,13 @@ SOP for Weekly Review. This should take less than an hour for the **Reset**, and
 
 - [ ] Clear off Desk
 - [ ] Clean out Bag
+- [ ] Physical Inbox down to Zero
 - [ ] Look through last week of notes
 	- [ ] Pull out Action Items
 	- [ ] File Notes
 - [ ] Look through Gmail Inbox
 	- [ ] Pull out Action Items
 	- [ ] File Emails Away
-- [ ] Physical Inbox down to Zero
 - [ ] Review Calendar 2 weeks back
 - [ ] Review Calendar 2 weeks Fwd
 - [ ] Do 10 minutes (set a timer) of mental sweep. 10 minutes TOPS
