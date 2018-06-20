@@ -16,7 +16,7 @@ It's compassionate minimalism - planning for the travel-tired future you.
 - [ ] Kindle Books
 
 
-## Flight Outfit
+## Transit Outfit
 
 - [ ] Jeans
 - [ ] Comfortable Tshirt
@@ -47,6 +47,6 @@ It's compassionate minimalism - planning for the travel-tired future you.
 - [ ] Laptop/iPad Cord
 - [ ] Portable Backup Battery
 
-## Purchase at Destination
+## Purchase at Destination (if flying) * to avoid having liquids / gels
 
 - [ ] Toothpaste
